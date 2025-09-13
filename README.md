@@ -1,6 +1,6 @@
 # Connect Four AI player
 
-For CS 111, Introduction to Computer Science, with Erik Carlson
+For CS 111, Introduction to Computer Science, with Erik Carlson. An AI-powered Connect 4 game implemented in Python, using minimax search with alpha-beta pruning to make optimal moves.
 
 We made a connect 4 game which utilizes python's built in turtle objects to draw
 the board and various pieces on the board. Additionally, we created an ai which
